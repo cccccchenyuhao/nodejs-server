@@ -5,13 +5,13 @@
    - "/index”
    - "/weather" 一个表单页面，输入城市使用AJAX获取数据，数据存在"/data/weather.json"
    - "/register” 使用AJAX以POST发送数据到“/register”
-      2个接口
-      	​	- "/getweather" GET 请求天气数据
-      	​	-"/rigister" POST 发送注册数据
+   2个接口
+     - "/getweather" GET 请求天气数据
+     -"/rigister" POST 发送注册数据
 
   开放静态文件
 
-  ​	- “/static”
+   - “/static”
 
 2. 代码分析
 
