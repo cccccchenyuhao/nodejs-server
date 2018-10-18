@@ -7,7 +7,7 @@
    
   2个接口
    - "/getweather" GET 请求天气数据 
-   -"/rigister" POST 发送注册数据
+   - "/rigister" POST 发送注册数据
 
   开放静态文件
 
